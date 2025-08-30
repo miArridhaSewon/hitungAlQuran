@@ -684,7 +684,7 @@ const dataSurat = [
   { nama: "Luqman", ayat: "20-22", baris: 2715, halaman: 191.6 },
   { nama: "Luqman", ayat: "23-28", baris: 2723, halaman: 192.2 },
   { nama: "Luqman", ayat: "29-31", baris: 2729, halaman: 192.6 },
-  { nama: "Luqman", ayat: "32-34", baris: 2737, halaman: 193.2 }
+  { nama: "Luqman", ayat: "32-34", baris: 2737, halaman: 193.2 },
   { nama: "Ar Ruum", ayat: "1-5", baris: 2741, halaman: 193.6 },
   { nama: "Ar Ruum", ayat: "6-8", baris: 2745, halaman: 193.9 },
   { nama: "Ar Ruum", ayat: "9-10", baris: 2751, halaman: 194.2 },
@@ -810,6 +810,7 @@ const dataSurat = [
   { nama: "Asy Syu'ara", ayat: "207-217", baris: 3391, halaman: 236.7 },
   { nama: "Asy Syu'ara", ayat: "218-227", baris: 3376, halaman: 237.2 }
 ];
+
 
 
 
