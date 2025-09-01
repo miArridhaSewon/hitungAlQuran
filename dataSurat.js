@@ -203,14 +203,14 @@ const dataSurat = [
   { nama: "At Tahrim", ayat: "8-8", baris: 567, halaman: 44.3 },
   { nama: "At Tahrim", ayat: "9-10", baris: 572, halaman: 44.6 },
   { nama: "At Tahrim", ayat: "11-12", baris: 577, halaman: 45 },
-  { nama: "Ath Thalaq", ayat: "1", baris: 582, halaman: 45.4 },
-  { nama: "Ath Thalaq", ayat: "2", baris: 585, halaman: 45.6 },
-  { nama: "Ath Thalaq", ayat: "3", baris: 587, halaman: 45.7 },
+  { nama: "Ath Thalaq", ayat: "1-1", baris: 582, halaman: 45.4 },
+  { nama: "Ath Thalaq", ayat: "2-2", baris: 585, halaman: 45.6 },
+  { nama: "Ath Thalaq", ayat: "3-3", baris: 587, halaman: 45.7 },
   { nama: "Ath Thalaq", ayat: "4-5", baris: 591, halaman: 46 },
-  { nama: "Ath Thalaq", ayat: "6", baris: 595, halaman: 46.3 },
+  { nama: "Ath Thalaq", ayat: "6-6", baris: 595, halaman: 46.3 },
   { nama: "Ath Thalaq", ayat: "7-9", baris: 599, halaman: 46.6 },
   { nama: "Ath Thalaq", ayat: "10-11", baris: 604, halaman: 46.9 },
-  { nama: "Ath Thalaq", ayat: "12", baris: 606, halaman: 47 },
+  { nama: "Ath Thalaq", ayat: "12-12", baris: 606, halaman: 47 },
   { nama: "At Taghabun", ayat: "1-3", baris: 610, halaman: 47.3 },
   { nama: "At Taghabun", ayat: "4-5", baris: 613, halaman: 47.5 },
   { nama: "At Taghabun", ayat: "6-8", baris: 617, halaman: 47.8 },
@@ -810,6 +810,7 @@ const dataSurat = [
   { nama: "Asy Syu'ara", ayat: "207-217", baris: 3391, halaman: 236.7 },
   { nama: "Asy Syu'ara", ayat: "218-227", baris: 3376, halaman: 237.2 }
 ];
+
 
 
 
