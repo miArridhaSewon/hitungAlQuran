@@ -140,7 +140,7 @@ const dataSurat = [
   { nama: "Al Muzammil", ayat: "7-10", baris: 367, halaman: 29.9 },
   { nama: "Al Muzammil", ayat: "11-14", baris: 370, halaman: 30.1 },
   { nama: "Al Muzammil", ayat: "15-19", baris: 374, halaman: 30.4 },
-  { nama: "Al Muzammil", ayat: "20", baris: 381, halaman: 31 },
+  { nama: "Al Muzammil", ayat: "20-21", baris: 381, halaman: 31 },
   { nama: "Al Jin", ayat: "1-3", baris: 384, halaman: 31.3 },
   { nama: "Al Jin", ayat: "4-6", baris: 387, halaman: 31.6 },
   { nama: "Al Jin", ayat: "7-10", baris: 391, halaman: 31.8 },
@@ -200,7 +200,7 @@ const dataSurat = [
   { nama: "At Tahrim", ayat: "3-3", baris: 554, halaman: 43.4 },
   { nama: "At Tahrim", ayat: "4-5", baris: 558, halaman: 43.7 },
   { nama: "At Tahrim", ayat: "6-7", baris: 562, halaman: 44 },
-  { nama: "At Tahrim", ayat: "8", baris: 567, halaman: 44.3 },
+  { nama: "At Tahrim", ayat: "8-8", baris: 567, halaman: 44.3 },
   { nama: "At Tahrim", ayat: "9-10", baris: 572, halaman: 44.6 },
   { nama: "At Tahrim", ayat: "11-12", baris: 577, halaman: 45 },
   { nama: "Ath Thalaq", ayat: "1", baris: 582, halaman: 45.4 },
@@ -810,6 +810,7 @@ const dataSurat = [
   { nama: "Asy Syu'ara", ayat: "207-217", baris: 3391, halaman: 236.7 },
   { nama: "Asy Syu'ara", ayat: "218-227", baris: 3376, halaman: 237.2 }
 ];
+
 
 
 
