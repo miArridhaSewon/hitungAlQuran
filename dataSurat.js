@@ -197,7 +197,7 @@ const dataSurat = [
   { nama: "Al Mulk", ayat: "27-28", baris: 547, halaman: 42.8 },
   { nama: "Al Mulk", ayat: "29-30", baris: 549, halaman: 43 },
   { nama: "At Tahrim", ayat: "1-2", baris: 551, halaman: 43.2 },
-  { nama: "At Tahrim", ayat: "3", baris: 554, halaman: 43.4 },
+  { nama: "At Tahrim", ayat: "3-3", baris: 554, halaman: 43.4 },
   { nama: "At Tahrim", ayat: "4-5", baris: 558, halaman: 43.7 },
   { nama: "At Tahrim", ayat: "6-7", baris: 562, halaman: 44 },
   { nama: "At Tahrim", ayat: "8", baris: 567, halaman: 44.3 },
@@ -810,6 +810,7 @@ const dataSurat = [
   { nama: "Asy Syu'ara", ayat: "207-217", baris: 3391, halaman: 236.7 },
   { nama: "Asy Syu'ara", ayat: "218-227", baris: 3376, halaman: 237.2 }
 ];
+
 
 
 
