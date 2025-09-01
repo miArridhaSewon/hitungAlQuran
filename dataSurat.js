@@ -140,7 +140,7 @@ const dataSurat = [
   { nama: "Al Muzammil", ayat: "7-10", baris: 367, halaman: 29.9 },
   { nama: "Al Muzammil", ayat: "11-14", baris: 370, halaman: 30.1 },
   { nama: "Al Muzammil", ayat: "15-19", baris: 374, halaman: 30.4 },
-  { nama: "Al Muzammil", ayat: "20", baris: 381, halaman: 31 },
+  { nama: "Al Muzammil", ayat: "20-20", baris: 381, halaman: 31 },
   { nama: "Al Jin", ayat: "1-3", baris: 384, halaman: 31.3 },
   { nama: "Al Jin", ayat: "4-6", baris: 387, halaman: 31.6 },
   { nama: "Al Jin", ayat: "7-10", baris: 391, halaman: 31.8 },
@@ -810,6 +810,7 @@ const dataSurat = [
   { nama: "Asy Syu'ara", ayat: "207-217", baris: 3391, halaman: 236.7 },
   { nama: "Asy Syu'ara", ayat: "218-227", baris: 3376, halaman: 237.2 }
 ];
+
 
 
 
