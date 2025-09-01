@@ -131,7 +131,7 @@ const dataSurat = [
   { nama: "Al Mudatsir", ayat: "10-17", baris: 341, halaman: 28 },
   { nama: "Al Mudatsir", ayat: "18-26", baris: 344, halaman: 28.2 },
   { nama: "Al Mudatsir", ayat: "27-30", baris: 345, halaman: 28.3 },
-  { nama: "Al Mudatsir", ayat: 31, baris: 350, halaman: 28.7 },
+  { nama: "Al Mudatsir", ayat: "31-31", baris: 350, halaman: 28.7 },
   { nama: "Al Mudatsir", ayat: "32-40", baris: 353, halaman: 28.9 },
   { nama: "Al Mudatsir", ayat: "41-47", baris: 356, halaman: 29.1 },
   { nama: "Al Mudatsir", ayat: "48-52", baris: 359, halaman: 29.3 },
@@ -810,6 +810,7 @@ const dataSurat = [
   { nama: "Asy Syu'ara", ayat: "207-217", baris: 3391, halaman: 236.7 },
   { nama: "Asy Syu'ara", ayat: "218-227", baris: 3376, halaman: 237.2 }
 ];
+
 
 
 
