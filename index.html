@@ -157,9 +157,13 @@
       }
 
       function ayatDalamRentang(ayat, range) {
-        const [start, end] = range.split("-").map(Number);
-        return ayat >= start && ayat <= end;
-      }
+  if (range.includes("-")) {
+    const [start, end] = range.split("-").map(Number);
+    return ayat >= start && ayat <= end;
+  } else {
+    return ayat === Number(range);
+  }
+}
 
       function cariIndexSurat(nama, ayat) {
         return dataSurat.findIndex(
