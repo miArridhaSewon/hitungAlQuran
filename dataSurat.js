@@ -25,7 +25,7 @@ const dataSurat = [
   { nama: "Al Bayyinah", ayat: "1-2", baris: 58, halaman: 6 },
   { nama: "Al Bayyinah", ayat: "3-5", baris: 61, halaman: 6.3 },
   { nama: "Al Bayyinah", ayat: "6-7", baris: 64, halaman: 6.5 },
-  { nama: "Al Bayyinah", ayat: "7-8", baris: 66, halaman: 6.7 },
+  { nama: "Al Bayyinah", ayat: "8-9", baris: 66, halaman: 6.7 },
   { nama: "Al Qadr", ayat: "1-5", baris: 69, halaman: 7 },
   { nama: "Al Alaq", ayat: "1-8", baris: 72, halaman: 7.2 },
   { nama: "Al Alaq", ayat: "9-14", baris: 74, halaman: 7.4 },
@@ -810,6 +810,7 @@ const dataSurat = [
   { nama: "Asy Syu'ara", ayat: "207-217", baris: 3391, halaman: 236.7 },
   { nama: "Asy Syu'ara", ayat: "218-227", baris: 3376, halaman: 237.2 }
 ];
+
 
 
 
